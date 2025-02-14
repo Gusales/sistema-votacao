@@ -1,4 +1,4 @@
-import { FastifyTypedInstance } from 'http/@types/fastify-typed-instance'
+import { FastifyTypedInstance } from '../@types/fastify-typed-instance'
 import { createEnqueteController } from '../controllers/enquetesController'
 import { createEnqueteSchema } from '../schemas/enquetes-schema'
 
